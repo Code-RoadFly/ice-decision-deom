@@ -1,6 +1,6 @@
 {
-  "name": "yuan-yal-0",
-  "version": "0.1.2",
+  "name": "liuxk",
+  "version": "0.0.1",
   "description": "cli",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "cli"
   ],
-  "author": "yuan_00",
+  "author": "liuxk",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Code-RoadFly/ice-decision-deom/issues"
